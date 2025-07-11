@@ -2,7 +2,7 @@
 
 This project explores the relationship between **cryptocurrency market sentiment** (Fear & Greed Index) and **trade outcomes** (Closed PnL) using historical trading data for BTC and ETH.
 
-### 🔗 [View Full Analysis in Google Colab](https://colab.research.google.com/drive/1TzHdXP2lmfM7QfApNtEBMkE__STU7qOq?usp=sharing)
+### 🔗 [View Full Notebook in Google Colab](https://colab.research.google.com/drive/1TzHdXP2lmfM7QfApNtEBMkE__STU7qOq?usp=sharing)
 
 ---
 
@@ -45,20 +45,11 @@ Two regression models were used to predict logged `Closed PnL`:
 - Visualizations indicate a pattern of profitability depending on sentiment classification.
 
 ---
-
-## 🔍 Future Improvements
-- More feature engineering
-- Hyperparameter tuning
-- Try advanced models or time-series techniques
-
----
+ 
 
 ## 📁 Files Required
 - `historical_data.csv`
 - `fear_greed_index.csv`
 
----
-
-## 📎 License
-MIT License (or specify yours)
+ 
 
